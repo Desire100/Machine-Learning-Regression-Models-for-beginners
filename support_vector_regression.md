@@ -1,1 +1,1 @@
-in tyhl kdhgkd kd 
+SVR stands for support vector regression and this is non-linear regressor. for this regressor we are going to use the same dataset 'Position_Salary' then we will compare this regressor with the previous ones. 
