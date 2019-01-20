@@ -1,1 +1,0 @@
-SVR stands for support vector regression and this is non-linear regressor. for this regressor we will use the same dataset 'Position_Salary' then we will compare this regressor with the previous ones. 
